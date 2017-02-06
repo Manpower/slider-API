@@ -1,0 +1,25 @@
+{
+  "name": "wiapi",
+  "version": "1.0.0",
+  "description": "test widget",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-minify": "^0.0.15",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-uglify": "^2.0.1",
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-rename": "^1.2.2"
+  },
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "manpower"
+  },
+  "author": "Alhassane sow",
+  "license": "ISC"
+}
